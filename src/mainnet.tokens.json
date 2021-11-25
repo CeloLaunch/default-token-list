@@ -1,5 +1,10 @@
 [
   {
+    "address": "0xC1CBe5aB272056166f0f1D26f091958a8Cc92F69",
+    "name": "celo Launch",
+    "symbol": "cLA"
+  },
+  {
     "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
     "name": "Poof",
     "symbol": "POOF"

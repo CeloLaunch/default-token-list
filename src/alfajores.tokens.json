@@ -1,5 +1,10 @@
 [
   {
+    "address": "0xbB36682E2D539bCD639886B8c9504E670Ba7Fea4",
+    "name": "celo Launch",
+    "symbol": "cLA"
+  },
+  {
     "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
     "name": "Poof Governance Token",
     "symbol": "POOF"
