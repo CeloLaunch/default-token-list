@@ -5,6 +5,14 @@
   "timestamp": "2021-11-17T22:29:35.405Z",
   "tokens": [
     {
+      "address": "0xC1CBe5aB272056166f0f1D26f091958a8Cc92F69",
+      "name": "celo Launch",
+      "symbol": "cLA",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CeloLaunch/default-token-list/master/assets/asset_cLA.png"
+    },
+    {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
       "name": "Poof",
       "symbol": "POOF",
@@ -123,14 +131,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/CeloLaunch/default-token-list/master/assets/asset_WMATIC.png"
-    },
-    {
-      "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
-      "name": "CeloStarter",
-      "symbol": "cStar",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/CeloLaunch/default-token-list/master/assets/asset_cStar.png"
     },
     {
       "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
