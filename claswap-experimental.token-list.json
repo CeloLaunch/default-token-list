@@ -5,10 +5,10 @@
   "timestamp": "2021-11-17T22:29:35.405Z",
   "tokens": [
     {
-      "address": "0xbB36682E2D539bCD639886B8c9504E670Ba7Fea4",
+      "address": "0xf581dB2408F74267C8C8d3489A35535736E09186",
       "name": "celo Launch",
       "symbol": "cLA",
-      "chainId": 44787,
+      "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/CeloLaunch/default-token-list/master/assets/asset_cLA.png"
     },
